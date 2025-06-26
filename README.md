@@ -14,22 +14,25 @@ Extracting data from one or more tables
 <h2>🛠️ Tools and SQL Techniques Used</h2>
 1. MySQL Workbench <br>
 2. Basic SQL statement : <br>
-      <mark>CREATE</mark> (creation of database and tables)<br>
-      <mark>INSERT</mark> (insertion of data into rows) <br>
-     <mark> ALTER</mark> (alteration of tables) - MODIFY, DROP, ADD <br>
-      <mark>UPDATE</mark> (updation of data in rows) <br>
-      <mark>DELETE</mark> (deletion of data in rows)<br>
-      <mark>DROP</mark> (dropping columns from tables)
+      <mark>SELECT</mark> (retrieval of data from tables)<br>
+      <mark>WHERE</mark> (cleause to put a condition to extract specific data) <br>
+     <mark>ORDER BY</mark> (SORT extracted data in ascending or descending order) <br>
+      <mark>LIMIT</mark> (set a limit to the amount of rows retrieved) <br>
+      <mark>AND</mark> (add a condition in the WHERE clause)<br>
+      <mark>OR</mark> (add a condition in the WHERE clause)
+      <mark>BETWEEN</mark> (set a range limit for the extracted data)
+      <mark>LIKE</mark> (wildcard for data retrieval condition)
+      <mark>AS</mark> (alias for the columns to be retrieved)
       
 <h2> 📈 Insights Derived </h2>
-- Tables creation <br>
-- Insertion of values into tables<br>
-- Defining constraints such as NULL, NOT NULL default<br>
-- Updation of data in rows<br>
-- Deletion of data in rows<br>
-- Alteration of tables and rows<br>
-- Dropping columns in a table<br>
+- Entire table data retrieval through SELECT statement <br>
+- Sorting data with ORDER BY<br>
+- Adding conditions with WHERE clause<br>
+- Adding more than one conditions with AND, OR<br>
+- Setting range limit with BETWEEN<br>
+- Using alias with AS<br>
+- Adding wildcards with LIKE<br>
 
 
 <h2>📋Developer's Note</h2>
-This task is meant to familarize you with the fundamental concepts of using NULL, NOT NULL, and default constraints to handle missing values, as well as practical skills of inserting, updating, and deleting data in a database.
+This task is meant to familarize you with basic SQL statements, commands, conditions, aliases, and clauses that help you to retrieve data from one or more tables in a database.
