@@ -1,7 +1,7 @@
 <h1>Writing basic SQL Queries</h1>
 
 <h2>📌Objective</h2>
-Extracting data from one or more tables<br>
+<mark>Extracting data from one or more tables</mark><br>
 In this task, I've used a student database with various different tables to dive deep into and gain practical knowledge related to SQL DQL containing a number of diverse statements.
 
 
