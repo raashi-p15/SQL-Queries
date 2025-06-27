@@ -7,7 +7,7 @@ In this task, I've used a student database with various different tables to dive
 
 <h2> 📁 What's in this Repository? </h2>
 1. <mark>README.md</mark> --> Project Description <br>
-2. <mark>Data_insert_scriptfile.sql</mark> --> SQL script with student data - tables STUDENT, course, and HOD
+2. <mark>Data_insert_scriptfile.sql</mark> --> SQL script with student data - tables STUDENT, course, and HOD<br>
 3. <mark>Data_insert_scriptfile.sql</mark> --> SQL script with SELECT, ORDER BY, WHERE, LIMIT statements.
 
 <h2>🛠️ Tools and SQL Techniques Used</h2>
